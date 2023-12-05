@@ -20,6 +20,8 @@ Após isso, basta acessar o arquivo `model.ipynb` ` e executar as células do no
 
 ## Vídeo demonstrativo
 
+https://github.com/Lemos1347/inteli-modulo-8-ponderada-7/assets/99190347/d89e306b-1ed2-42b5-a889-8fb9c8f1b3c0
+
 ## Mais informações
 
 Para mais informações sobre a construção da atividade, acesse o [notebook](model.ipynb).
